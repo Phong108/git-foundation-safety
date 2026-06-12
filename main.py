@@ -1,4 +1,4 @@
-print("student manager")
+print("===== STUDENT MANAGER =====")
 students = []
 
 def add_student():
