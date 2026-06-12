@@ -13,3 +13,9 @@ def delete_student():
     pass
 def update_student():
     pass
+def display_students():
+    print("Display student list")
+def validate_student_id(student_id):
+    return len(student_id) > 0
+def count_students(students):
+    return len(students)
