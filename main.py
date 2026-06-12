@@ -1,3 +1,4 @@
+title = "Student Manager"
 print("student manager")
 students = []
 
