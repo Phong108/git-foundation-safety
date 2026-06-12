@@ -8,3 +8,7 @@ def add_student():
 print("Student Manager")
 def search_student():
     print("Search student")
+def delete_student():
+    pass
+def update_student():
+    pass
