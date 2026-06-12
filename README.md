@@ -17,7 +17,6 @@ Lớp : KHD6
 **các lệnh đã được sử dụng trong project là:**  
 
 git clone <repository_url>: Tải repository từ GitHub về máy tính.  
-git config --global user.email "email@example.com": Thiết lập email cho Git.  
 git status: Kiểm tra trạng thái các file trong dự án.  
 git branch: Hiển thị danh sách các branch hiện có.  
 git checkout <branch>: Chuyển sang branch được chỉ định.  
