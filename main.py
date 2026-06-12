@@ -12,3 +12,5 @@ def delete_student():
     pass
 def update_student():
     pass
+def update_student():
+    print("Update student")
